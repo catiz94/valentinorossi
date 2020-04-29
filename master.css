@@ -1,0 +1,217 @@
+@media only screen and (min-width: 0px){
+  *{
+    margin: 0;
+  }
+  body{
+    background-color: lightgreen;
+  }
+  main{
+    width: 95%;
+    background-color: white;
+    margin: 10px auto;
+    box-shadow: 0px 0px 5px #aaa;
+    font-family: arial, sans-serif;
+  }
+  h1{
+    padding-top: 15px;
+    text-align: center;
+  }
+  #slogan{
+    text-align: center;
+    padding: 15px;
+  }
+  img{
+    width: 95%;
+    display: block;
+    margin: auto;
+  }
+  figcaption{
+    padding: 10px 10px 15px 10px;
+    text-align: center;
+  }
+hr{
+  width: 100%;
+  opacity: 0.5;
+  color: lightgreen;
+  margin: auto;
+}
+h3{
+  padding: 20px 0px 10px 0px;
+  text-align: center;
+}
+li{
+  padding: 10px 15px 10px 0px;
+  list-style: none;
+  line-height: 1.4;
+  font-family: arial, sans-serif;
+  font-weight: 500;
+}
+strong{
+  text-align: center;
+}
+.year{
+  text-align: left;
+  color: black;
+  font-weight: 700;
+}
+blockquote{
+  font-weight: 700;
+
+}
+#finale{
+  padding: 20px;
+  list-style: none;
+  line-height: 1.4;
+  font-family: arial, sans-serif;
+  color: black;
+}
+
+
+}
+
+
+@media only screen and (min-width: 600px){
+  *{
+    margin: 0;
+  }
+  body{
+    background-color: #fef181;
+    font-size: 1.2em;
+  }
+  main{
+    width: 550px;
+    background-color: white;
+    margin: 10px auto;
+    box-shadow: 0px 0px 5px #aaa;
+    font-family: arial, sans-serif;
+  }
+  h1{
+    padding-top: 15px;
+    text-align: center;
+  }
+  #slogan{
+    text-align: center;
+    padding: 15px;
+  }
+  img{
+    width: 95%;
+    display: block;
+    margin: auto;
+  }
+  figcaption{
+    padding: 10px 10px 15px 10px;
+    text-align: center;
+  }
+hr{
+  width: 100%;
+  opacity: 0.5;
+  color: #fef181;
+  margin: auto;
+}
+h3{
+  padding: 20px 0px 10px 0px;
+  text-align: center;
+}
+li{
+  padding: 10px 15px 10px 0px;
+  list-style: none;
+  line-height: 1.4;
+  font-family: arial, sans-serif;
+  font-weight: 500;
+}
+strong{
+  text-align: center;
+}
+.year{
+  text-align: left;
+  color: black;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+blockquote{
+  font-weight: 700;
+  text-align: center;
+}
+#finale{
+  padding: 20px;
+  list-style: none;
+  line-height: 1.4;
+  font-family: arial, sans-serif;
+  color: black;
+  text-align: center;
+}
+}
+@media only screen and (min-width: 1200px){
+  *{
+    margin: 0;
+  }
+  body{
+    background-color: #396fc5;
+    font-size: 1.2em;
+  }
+  main{
+    width: 800px;
+    background-color: white;
+    margin: 10px auto;
+    box-shadow: 0px 0px 5px #aaa;
+    font-family: arial, sans-serif;
+  }
+  h1{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 2em;
+  }
+  #slogan{
+    text-align: center;
+    padding: 15px;
+  }
+  img{
+    width: 95%;
+    display: block;
+    margin: auto;
+  }
+  figcaption{
+    padding: 10px 10px 15px 10px;
+    text-align: center;
+  }
+hr{
+  width: 100%;
+  opacity: 0.5;
+  color: #396fc5;
+  margin: auto;
+}
+h3{
+  padding: 20px 0px 10px 0px;
+  text-align: center;
+}
+li{
+  padding: 10px 15px 10px 0px;
+  list-style: none;
+  line-height: 1.4;
+  font-family: arial, sans-serif;
+  font-weight: 500;
+}
+strong{
+  text-align: center;
+}
+.year{
+  text-align: left;
+  color: black;
+  font-weight: 700;
+  font-size: 2em;
+}
+blockquote{
+  font-weight: 700;
+  text-align: center;
+  font-size: 1.4em;
+}
+#finale{
+  padding: 20px;
+  list-style: none;
+  line-height: 1.4;
+  font-family: arial, sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 1.3em;
+}
+}
